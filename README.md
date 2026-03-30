@@ -6,4 +6,7 @@ The prompts include:
   - Tutor prompt 
   - Teacher prompt 
   - Judge prompt 
-  
+
+  The KG files represent the construction and traversal of KG 
+
+  The num_* map_* and prop_* files are used to construct the KG 
